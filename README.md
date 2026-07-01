@@ -14,6 +14,14 @@ npm run dev
 
 lmao
 
+# Roadmap
+
+1 - Implement Floating Edges
+2 - Browser cache holds the state of the graph (DONE)
+3 - Clicking on an element opens a pop-up with following text
+4 - Edges are dotted when the they're attached to the "most below" node
+5 - Actually make the missing content
+6 - Cookie permission pop-up i guess
 
 # React + Vite
 
